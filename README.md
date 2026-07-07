@@ -16,6 +16,7 @@ Le code de l'application se trouve dans le dossier [`green`](./green).
 - Dashboards expert et administrateur.
 - Assistant IA Green Coach avec mode mock par defaut.
 
+
 ## Stack
 
 - Next.js 15
